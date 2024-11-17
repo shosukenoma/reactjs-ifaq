@@ -1,4 +1,4 @@
-I used to Vite as the build tool for this project, considering its small size.\
+I used Vite as the build tool for this project, considering its small size.\
 Passed a "toggleAccordion" event handler down to the FAQHeader component.\
 In the FAQHeader component, assigned toggleAccordion reference to button element onClick property.
 
